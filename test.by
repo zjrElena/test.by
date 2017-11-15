@@ -4,7 +4,9 @@ using namespace std;
 string s1="hello"; 
 int main() 
 { 
+hello world;
  string s2="world"; 
  int s1=42; 
- cout<<::s1<<" "<<s2<<endl;//hello world 
+ cout<<::s1<<" "<<s2<<endl;
+ }
  return 0;
